@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/socketio.furcnx.com.ico",
     "slug": "socket-io-ping",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 289,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
-    "dailyMinutesDown": {}
+    "uptime": "7.45%",
+    "uptimeDay": "7.45%",
+    "uptimeWeek": "7.45%",
+    "uptimeMonth": "7.45%",
+    "uptimeYear": "7.45%",
+    "time": 292,
+    "timeDay": 292,
+    "timeWeek": 292,
+    "timeMonth": 292,
+    "timeYear": 292,
+    "dailyMinutesDown": {
+      "2026-06-21": 3
+    }
   },
   {
     "name": "Socket.IO (health · Neon+Upstash)",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 555,
-    "timeWeek": 555,
-    "timeMonth": 555,
-    "timeYear": 555,
+    "time": 431,
+    "timeDay": 431,
+    "timeWeek": 431,
+    "timeMonth": 431,
+    "timeYear": 431,
     "dailyMinutesDown": {}
   }
 ]
