@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/socketio.furcnx.com.ico",
     "slug": "socket-io-ping",
     "status": "down",
-    "uptime": "7.45%",
-    "uptimeDay": "7.45%",
-    "uptimeWeek": "7.45%",
-    "uptimeMonth": "7.45%",
-    "uptimeYear": "7.45%",
-    "time": 292,
-    "timeDay": 292,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "uptime": "0.01%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 314,
+    "timeDay": 357,
+    "timeWeek": 314,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2026-06-21": 3
+      "2026-06-22": 1078,
+      "2026-06-21": 1240
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 431,
-    "timeWeek": 431,
-    "timeMonth": 431,
-    "timeYear": 431,
+    "time": 449,
+    "timeDay": 486,
+    "timeWeek": 449,
+    "timeMonth": 449,
+    "timeYear": 449,
     "dailyMinutesDown": {}
   }
 ]
