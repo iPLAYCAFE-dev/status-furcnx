@@ -16,7 +16,7 @@
     "timeMonth": 326,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2026-08-01": 159,
+      "2026-08-01": 567,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -65,17 +65,19 @@
     "url": "https://socketio.furcnx.com/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/socketio.furcnx.com.ico",
     "slug": "socket-io-health-neon-upstash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 500,
-    "timeWeek": 478,
-    "timeMonth": 520,
-    "timeYear": 504,
-    "dailyMinutesDown": {}
+    "time": 498,
+    "timeDay": 383,
+    "timeWeek": 452,
+    "timeMonth": 512,
+    "timeYear": 498,
+    "dailyMinutesDown": {
+      "2026-08-01": 0
+    }
   }
 ]
